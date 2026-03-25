@@ -12,6 +12,7 @@ Lihat Detail Kucing Langka - Demonstrasi akses protected method (Inheritance)
 Tampilkan Info Lengkap - Demonstrasi polymorphism pada objek kucing
 Keluar - Menutup program
 
+
 ## 🎯 Implementasi Konsep OOP
 
 ### 1. Enkapsulasi (Encapsulation)
@@ -41,7 +42,40 @@ c. Enhanced For Loop - Untuk testing polymorphism
 a. If-Else Statement
 b. Switch-Case Statement
 
+
 ## 🖥️ Output Program
+
+### **1. Tampilan Menu Utama**
+![Tampilan Menu Utama](Screenshot/tampilanMenu.png)
+*Menu utama dengan 7 pilihan fitur*
+
+### **2. Tambah Data Kucing**
+![Tambah Data](Screenshot/tambahData.png)
+*Form input untuk menambah kucing baru*
+
+### **3. Lihat Semua Data**
+![Lihat Data](Screenshot/lihatData.png)
+*Menampilkan seluruh data kucing dalam shelter*
+
+### **4. Update Data**
+![Update Data](Screenshot/updataData.png)
+*Mengubah data kucing berdasarkan ID*
+
+### **5. Hapus Data**
+![Hapus Data](Screenshot/hapusData.png)
+*Menghapus data kucing dari sistem*
+
+### **6. Detail Kucing Langka**
+![Detail Kucing Langka](Screenshot/lihatDetailKucingLangka.png)
+*Demonstrasi protected access pada kucing langka*
+
+### **7. Tes Polymorphism**
+![Polymorphism](Screenshot/tampilkanInfoLengkap.png)
+*Demonstrasi polymorphism dengan output berbeda*
+
+### **8. Keluar Program**
+![Keluar](Screenshot/keluarProgram.png)
+*keluar dan menghentikan program*
 
 
 ## 😺 Pembuat Program
