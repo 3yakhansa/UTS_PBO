@@ -46,7 +46,7 @@ b. Switch-Case Statement
 ## 🖥️ Output Program
 
 ### **1. Tampilan Menu Utama**
-![Tampilan Menu Utama](Screenshot/tampilanMenu.png)
+![Tampilan Menu Utama](UTS-PBO/Screenshot/tampilanMenu.png)
 *Menu utama dengan 7 pilihan fitur*
 
 ### **2. Tambah Data Kucing**
